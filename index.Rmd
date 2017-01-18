@@ -1,5 +1,5 @@
 --- 
-title: "A Minimal Book Example"
+title: "My Clean Power Documentation"
 author: "Alex Pawlowski"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
