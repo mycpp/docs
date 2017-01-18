@@ -1,0 +1,8 @@
+book_filename: "documentation"
+output_dir: "docs"
+language:
+  ui:
+    chapter_name: "Chapter "
+download:
+  - ["book.pdf", "PDF"]
+  - ["book.epub", "EPUB"]

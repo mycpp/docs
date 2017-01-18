@@ -1,0 +1,8 @@
+checkpoint              Configures R session to use packages as they
+                        existed on CRAN at time of snapshot.
+checkpoint-package      Install packages from snapshots on the
+                        checkpoint server for reproducibility
+getValidSnapshots       Read list of available snapshot dates from MRAN
+                        url.
+setSnapshot             Set default CRAN repository to MRAN snapshot
+                        date.

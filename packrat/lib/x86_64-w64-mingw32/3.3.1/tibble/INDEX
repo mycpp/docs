@@ -1,0 +1,9 @@
+add_row                 Add a row to a data frame
+all_equal               Flexible equality comparison for data frames.
+as_data_frame           Coerce lists and matrices to data frames.
+data_frame              Build a data frame or list.
+frame_data              Row-wise tibble creation
+glimpse                 Get a glimpse of your data.
+repair_names            Repair object names.
+rownames                Tools for working with row names
+tibble-package          Simple Data Frames
